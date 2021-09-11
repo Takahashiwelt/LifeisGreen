@@ -1,5 +1,5 @@
 # LifeisGreen
-![lifeisgreen](https://user-images.githubusercontent.com/25281086/132941716-33fb4744-d03c-4d17-8b0e-1c9241b6002a.gif width="320px")
+![lifeisgreen](img src="https://user-images.githubusercontent.com/25281086/132941716-33fb4744-d03c-4d17-8b0e-1c9241b6002a.gif" width="320px")
 # Play
 https://takahashiwelt.github.io/LifeisGreen/
 # 解説
